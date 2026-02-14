@@ -31,7 +31,7 @@ I thrive on the "aha!" moments that emerge from data exploration, and I believe 
 - **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
 
 ## 🌱 Currently Learning 
-
+# 🤖 AI Agents, Agentic Workflows & MCP 
 - [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
 - [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
 
