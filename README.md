@@ -13,6 +13,15 @@
 </p>
 
 ## 🚀 About Me 
+As a seasoned Data Analyst with over a decade of experience, I am passionate about empowering businesses to unlock the full potential of their data. My expertise lies in transforming complex, unstructured datasets into compelling narratives and actionable insights that drive strategic decision-making.
+
+I specialize in designing intuitive dashboards that not only visualize key metrics but also enhance team productivity by automating repetitive tasks. This allows teams to concentrate on tackling more challenging and impactful problems. My proficiency in developing predictive models enables organizations to plan proactively for the future, ensuring they remain agile in a rapidly evolving landscape.
+
+When I'm not immersed in the world of data, you can find me channelling my energy into fitness, where I embrace the discipline of working out to stay both physically and mentally sharp. I also find joy in curating playlists that enhance my focus and creativity through music. Additionally, I have a passion for cleaning and organizing, believing that a tidy environment fosters clarity and productivity.
+I thrive on the "aha!" moments that emerge from data exploration, and I believe that every dataset has a story waiting to be told. 
+
+
+
 I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
 
 My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
