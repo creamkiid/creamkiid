@@ -15,7 +15,7 @@
 ## 🚀 About Me 
 As a seasoned Data Analyst with over a decade of experience, I am passionate about empowering businesses to unlock the full potential of their data. My expertise lies in transforming complex, unstructured datasets into compelling narratives and actionable insights that drive strategic decision-making.
 
-I specialize in designing intuitive dashboards that not only visualize key metrics but also enhance team productivity by automating repetitive tasks. This allows teams to concentrate on tackling more challenging and impactful problems. My proficiency in developing predictive models enables organizations to plan proactively for the future, ensuring they remain agile in a rapidly evolving landscape.
+I specialize in designing intuitive dashboards that not only visualize key metrics but also enhance team productivity by automating repetitive tasks. This enables teams to focus on addressing more complex and significant issues. My proficiency in developing predictive models enables organizations to plan proactively for the future, ensuring they remain agile in a rapidly evolving landscape.
 
 When I'm not immersed in the world of data, you can find me channelling my energy into fitness, where I embrace the discipline of working out to stay both physically and mentally sharp. I also find joy in curating playlists that enhance my focus and creativity through music. Additionally, I have a passion for cleaning and organizing, believing that a tidy environment fosters clarity and productivity.
 I thrive on the "aha!" moments that emerge from data exploration, and I believe that every dataset has a story waiting to be told. 
@@ -46,12 +46,6 @@ I thrive on the "aha!" moments that emerge from data exploration, and I believe 
   <img src="https://img.shields.io/badge/Power%20BI-Intermediate-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
   <img src="https://img.shields.io/badge/Excel-Intermediate-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
   <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
-</p>
-
-#### Programming & Automation
-<p>
-  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-  <img src="https://img.shields.io/badge/R-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
 </p>
 
 #### Business Intelligence & Analytics
