@@ -35,18 +35,18 @@ I thrive on the "aha!" moments that emerge from data exploration, and I believe 
 I’m currently focused on building intelligent, tool-using systems powered by AI agents and structured agentic workflows. My learning centres on designing autonomous systems that can plan, reason, use tools, and iterate toward defined goals rather than relying on single-prompt interactions.
 
 ### What I’m Exploring
-•	Designing goal-oriented AI agents with memory and multi-step reasoning
-•	Building agentic workflows that coordinate tasks, tools, and feedback loops
-•	Implementing structured orchestration patterns for reliability and evaluation
-•	Learning and applying the Model Context Protocol (MCP) to standardize tool and context integration
-•	Experimenting with automation-driven agents for real-world use cases
+- Designing goal-oriented AI agents with memory and multi-step reasoning
+- Building agentic workflows that coordinate tasks, tools, and feedback loops
+- Implementing structured orchestration patterns for reliability and evaluation
+- Learning and applying the Model Context Protocol (MCP) to standardize tool and context integration
+- Experimenting with automation-driven agents for real-world use cases
 
 ### Tools & Platforms
-•	n8n – workflow automation and agent orchestration
-•	Antigravity – AI-powered automation experiments
-•	Visual Studio Code – development and debugging
-•	Claude Desktop – agent experimentation and prompt engineering
-•	Azure AI Foundry – model deployment and applied AI workflows
+- n8n – workflow automation and agent orchestration
+- Antigravity – AI-powered automation experiments
+- Visual Studio Code – development and debugging
+- Claude Desktop – agent experimentation and prompt engineering
+- Azure AI Foundry – model deployment and applied AI workflows
 
 ## 🛠️ Technical Skillset
 
