@@ -31,9 +31,22 @@ I thrive on the "aha!" moments that emerge from data exploration, and I believe 
 - **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
 
 ## 🌱 Currently Learning 
-# 🤖 AI Agents, Agentic Workflows & MCP 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+### 🤖 AI Agents, Agentic Workflows & MCP 
+I’m currently focused on building intelligent, tool-using systems powered by AI agents and structured agentic workflows. My learning centres on designing autonomous systems that can plan, reason, use tools, and iterate toward defined goals rather than relying on single-prompt interactions.
+
+### What I’m Exploring
+•	Designing goal-oriented AI agents with memory and multi-step reasoning
+•	Building agentic workflows that coordinate tasks, tools, and feedback loops
+•	Implementing structured orchestration patterns for reliability and evaluation
+•	Learning and applying the Model Context Protocol (MCP) to standardize tool and context integration
+•	Experimenting with automation-driven agents for real-world use cases
+
+### Tools & Platforms
+•	n8n – workflow automation and agent orchestration
+•	Antigravity – AI-powered automation experiments
+•	Visual Studio Code – development and debugging
+•	Claude Desktop – agent experimentation and prompt engineering
+•	Azure AI Foundry – model deployment and applied AI workflows
 
 ## 🛠️ Technical Skillset
 
