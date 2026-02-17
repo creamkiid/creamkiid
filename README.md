@@ -17,18 +17,12 @@ As a seasoned Data Analyst with over a decade of experience, I am passionate abo
 
 I specialize in designing intuitive dashboards that not only visualize key metrics but also enhance team productivity by automating repetitive tasks. This enables teams to focus on addressing more complex and significant issues. My proficiency in developing predictive models enables organizations to plan proactively for the future, ensuring they remain agile in a rapidly evolving landscape.
 
-When I'm not immersed in the world of data, you can find me channelling my energy into fitness, where I embrace the discipline of working out to stay both physically and mentally sharp. I also find joy in curating playlists that enhance my focus and creativity through music. Additionally, I have a passion for cleaning and organizing, believing that a tidy environment fosters clarity and productivity.
+When I'm not immersed in the world of data, you can find me channelling my energy into fitness, where I embrace the discipline of working out to stay both physically and mentally sharp. I also find joy in curating playlists that enhance my focus and creativity through music. Additionally, I have a passion for cleaning and organising, as I believe that a tidy environment fosters clarity and productivity.
 I thrive on the "aha!" moments that emerge from data exploration, and I believe that every dataset has a story waiting to be told. 
 
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://creamkiid.github.io/)
-      
-## 🔭 What I'm Currently Working On 
-
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
 
 ## 🌱 Currently Learning 
 ### 🤖 AI Agents, Agentic Workflows & MCP 
